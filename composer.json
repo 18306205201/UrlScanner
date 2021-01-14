@@ -1,0 +1,19 @@
+{
+    "name": "easypackage/urlscanner",
+    "description": "Scan URLs FROM A CSV FILE AND REPORT INACCESSIBLE URLs",
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "~5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peng Tao",
+            "email": "18306205201@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
